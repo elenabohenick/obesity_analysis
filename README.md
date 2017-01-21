@@ -5,7 +5,7 @@ More than one-third (36.5%) of  the U.S. adult population suffer from obesity. T
 
 #### Goal:
 
-The goal of this project is to use Food Environment Atlas data try to predict obesity rates in U.S. counties. Through visualization and analysis, identify what factors are the most important in driving obesity rates up. 
+The goal of this project is to use the Food Environment Atlas data to try to predict obesity rates in U.S. counties. Through visualization and analysis, identify what factors are the most important in driving obesity rates up. 
 
 #### Hypothesis:
 
