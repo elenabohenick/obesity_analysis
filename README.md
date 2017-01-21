@@ -23,7 +23,7 @@ In order to identify the most important variables to be included in the model, t
 
 1. Random Forests. The importance scores form RF will separate the least important variables from the top predictors.
 2. Lasso. This method will yield features that do not predict the outcome and can be excluded.
-3. Principal Component Analysis. This method will help eliminate highly correlated variables.
+3. Principal Component Analysis. This method could be used to convert correlated features into a set of uncorrelated predictors.
 
 # Dataset
 
