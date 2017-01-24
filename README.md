@@ -5,7 +5,7 @@ More than one-third (36.5%) of  the U.S. adult population suffer from obesity. T
 
 #### Goal:
 
-The goal of this project is to use Food Environment Atlas data try to predict obesity rates in U.S. counties. Through visualization and analysis, identify what factors are the most important in driving obesity rates up. 
+The goal of this project is to use the Food Environment Atlas data to try to predict obesity rates in U.S. counties. Through visualization and analysis, identify what factors are the most important in driving obesity rates up. 
 
 #### Hypothesis:
 
@@ -23,7 +23,7 @@ In order to identify the most important variables to be included in the model, t
 
 1. Random Forests. The importance scores form RF will separate the least important variables from the top predictors.
 2. Lasso. This method will yield features that do not predict the outcome and can be excluded.
-3. Principal Component Analysis. This method will help eliminate highly correlated variables.
+3. Principal Component Analysis. This method could be used to convert correlated features into a set of uncorrelated predictors.
 
 # Dataset
 
